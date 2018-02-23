@@ -5,7 +5,7 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-      <div> comming soon</div>
+      <div> coming soon </div>
     );
   }
 }
